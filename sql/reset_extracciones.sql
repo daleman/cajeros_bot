@@ -1,0 +1,1 @@
+update cajeros_bot set extracciones = 0;
