@@ -1,6 +1,6 @@
 # cajeros_bot
 
-pip install -r requirements.txt
+pip install -r requirements.txt\
 python banco.py
 
 - Abrir telegram y buscar @cajeros_bot
